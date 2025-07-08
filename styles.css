@@ -30,7 +30,7 @@
     text-align: center;
 }
 .tic-tac-toe {
-    transform: translateY(27.75%);
+    transform: translateY(12%);
     width: 90%;
     max-width: 20rem;
     background-color: rgba(168, 11, 42, 0.15);
